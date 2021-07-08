@@ -1,7 +1,7 @@
 {
   "name": "hotjar-loader",
   "description": "Async loader for the hotjar api (browser, typescript)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Aubrey Holland <aubrey@withgrayce.com>",
   "keywords": [
     "hotjar",
